@@ -41,7 +41,7 @@
   <text x="80" y="380" font-family="Arial, sans-serif" font-size="24" fill="#94a3b8">Data Science | Power BI | Analytics Training</text>
   
   <!-- URL -->
-  <text x="80" y="540" font-family="Arial, sans-serif" font-size="20" fill="#64748b">www.learnwithabinash.com</text>
+  <text x="80" y="540" font-family="Arial, sans-serif" font-size="20" fill="#64748b">learnwithabinash.github.io/learnwithabinash</text>
   
   <!-- Feature badges -->
   <rect x="760" y="200" width="160" height="50" rx="25" fill="white" opacity="0.08"/>

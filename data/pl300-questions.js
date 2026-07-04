@@ -1,5 +1,5 @@
 // PL-300: Microsoft Power BI Data Analyst Practice Exam Questions
-// Learn With Abinash - https://www.learnwithabinash.com
+// Learn With Abinash - https://learnwithabinash.github.io/learnwithabinash
 
 const PL300_EXAM = {
   id: "pl300",
