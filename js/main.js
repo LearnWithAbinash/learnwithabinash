@@ -613,7 +613,7 @@
         visibility: hidden;
         transform: translateY(20px);
         transition: all 0.3s ease;
-        z-index: 10000;
+        z-index: 1000;
         box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
       }
       
