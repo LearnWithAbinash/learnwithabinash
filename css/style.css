@@ -2124,7 +2124,7 @@ h1, h2, h3, h4, h5, h6 {
 /* ─────────────────────────────────── */
 .whatsapp-float {
   position: fixed;
-  bottom: 2rem;
+  bottom: 5.5rem;
   right: 2rem;
   z-index: 9999;
   display: flex;
@@ -2167,7 +2167,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 768px) {
   .whatsapp-float {
-    bottom: 1.25rem;
+    bottom: 4.5rem;
     right: 1.25rem;
     padding: 0.75rem;
     border-radius: 50%;
